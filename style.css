@@ -1,0 +1,19 @@
+body {
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 24px;
+		color: #eaeaea;
+		background-color: #666;
+		text-shadow: 2px 2px #333;
+	}
+
+.coming-soon {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
